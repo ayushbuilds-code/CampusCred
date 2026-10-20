@@ -23,9 +23,9 @@
 ## 🚀 Key Highlights & Current Features
 
 - **Multi-Campus Architecture**: Supports independent campuses with localized governance, campus admins, and multi-campus reporting:
-  - **Bengaluru**: Mirai School of Technology (`BLR`)
-  - **Mumbai**: Apex University of Science & Arts (`MUM`)
-  - **Delhi NCR**: Delhi Metropolitan College (`DEL`)
+  - **Bengaluru**: Mirai School of Technology, Bangalore
+  - **Gazhiabad**: Mirai School of Technology, Gazhiabad
+  - **Jaipur**: Delhi Metropolitan College, Jaipur
 - **Anti-Cheating Check-In**: Rotating dynamic QR code and synchronized 6-digit one-time code generated from per-session secrets and 20-second time slots. Includes optional geo-radius validation.
 - **Academic Club Days Workflow**:
   - Semester calendar import (CSV or UI)
@@ -90,11 +90,11 @@ All seeded demo accounts use the standard password: `@Demo123`
 | Role | Account Email / ID | Campus / Affiliation | What to Explore |
 |---|---|---|---|
 | **Super Admin** | `superadmin@msot.com` | Global (All Campuses) | Global overview, campus management, audit logs, system-wide rules |
-| **Campus Admin (Bengaluru)** | `campus.admin@msot.com` | Mirai School of Tech | Club approvals, duty leave, campus reports, calendar imports |
+| **Campus Admin (Bengaluru)** | `yashaswini@msot.com` | Mirai School of Tech | Club approvals, duty leave, campus reports, calendar imports |
 | **Faculty Advisor** | `aditya@msot.com` | Sport Club (BLR) | Review activity plans, rubric score submissions, approve budgets |
 | **Sport Club President** | `astitva@msot.com` | Sport Club (BLR) | Launch dynamic rotating QR check-in, score members, publish grades |
 | **Sport Club Treasurer** | `aryan@msot.com` | Sport Club (BLR) | Submit budget requests and track expenses |
-| **Active Member** | `ayush@msot.com` / `MSOT26003` | Sport Club (BLR) | Mobile QR scan / 6-digit check-in, submit project link, download certificates |
+| **Active Member** | `ayush@msot.com` / `MSOT08` | Sport Club (BLR) | Mobile QR scan / 6-digit check-in, submit project link, download certificates |
 
 ---
 
