@@ -25,7 +25,7 @@
 - **Multi-Campus Architecture**: Supports independent campuses with localized governance, campus admins, and multi-campus reporting:
   - **Bengaluru**: Mirai School of Technology, Bangalore
   - **Gazhiabad**: Mirai School of Technology, Gazhiabad
-  - **Jaipur**: Delhi Metropolitan College, Jaipur
+  - **Jaipur**: Mirai School of Technology, Jaipur
 - **Anti-Cheating Check-In**: Rotating dynamic QR code and synchronized 6-digit one-time code generated from per-session secrets and 20-second time slots. Includes optional geo-radius validation.
 - **Academic Club Days Workflow**:
   - Semester calendar import (CSV or UI)
